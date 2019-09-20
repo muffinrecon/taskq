@@ -13,7 +13,7 @@ require (
 	github.com/onsi/gomega v1.5.0
 	github.com/satori/go.uuid v1.2.0
 	github.com/stretchr/testify v1.3.0 // indirect
-	github.com/valyala/gozstd v1.5.1
+	github.com/muffinrecon/gozstd v1.5.1
 	github.com/vmihailenco/msgpack/v4 v4.2.0
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4
 )
