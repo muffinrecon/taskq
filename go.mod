@@ -1,4 +1,4 @@
-module github.com/vmihailenco/taskq/v2
+module github.com/muffinrecon/taskq/v2
 
 go 1.13
 
